@@ -1,0 +1,33 @@
+Supply Chain & Logistics Knowledge Base
+
+Q: What is inventory optimization?
+A: Inventory optimization is the process of balancing stock levels to minimize costs (holding, ordering, shortage) while ensuring product availability to meet customer demand. Common techniques include EOQ (Economic Order Quantity), safety stock calculation, and demand forecasting using AI/ML models.
+
+Q: How can companies reduce supply chain risks?
+A: Diversify suppliers, implement real-time visibility with IoT sensors, use predictive analytics for demand and disruption forecasting, maintain safety stock buffers, and build resilient multi-modal logistics networks. AI can identify risks early (e.g., weather delays, supplier failure).
+
+Q: What causes supply chain delays?
+A: Common causes include transportation disruptions (port congestion, strikes), supplier shortages, demand spikes, natural disasters, customs delays, and poor forecasting. Mitigation involves buffer inventory, alternative routes, and AI-driven predictive tools.
+
+Q: Explain Just-In-Time (JIT) inventory.
+A: JIT is a strategy to receive goods only as needed in production — reduces inventory holding costs but requires precise forecasting and reliable suppliers. High risk of stockouts if disruptions occur.
+
+Q: What is the bullwhip effect?
+A: The bullwhip effect is demand amplification as orders move upstream in the supply chain — small retail demand changes cause larger swings at manufacturer level. AI forecasting and information sharing reduce it.
+
+Q: How does AI improve supply chain forecasting?
+A: AI uses historical data, external signals (weather, market trends, social media), and machine learning models (LSTM, Prophet, XGBoost) to predict demand more accurately than traditional methods, reducing overstock/understock by 20–40%.
+
+Q: What is anomaly detection in logistics?
+A: Identifying unusual patterns in shipment data (e.g., delayed containers, temperature spikes in cold chain) using ML algorithms like Isolation Forest or Autoencoders to prevent losses and improve reliability.
+
+Q: What is a digital twin in supply chain?
+A: A virtual replica of physical assets, processes, or the entire supply chain that uses real-time data for simulation, optimization, and what-if analysis. Helps in predictive maintenance and scenario planning.
+
+Q: Explain S&OP (Sales and Operations Planning).
+A: S&OP is a cross-functional process that aligns demand planning, supply planning, and financial goals to create a single operating plan. AI enhances it with better forecasting and scenario modeling.
+
+Additional facts:
+- Global supply chain market size (2025): ~$20 trillion.
+- Average inventory holding cost: 20–30% of inventory value per year.
+- Top supply chain risks (2026): geopolitical tensions, climate change, cyber threats.
